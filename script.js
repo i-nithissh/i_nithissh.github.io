@@ -22,7 +22,7 @@
         sidemenu.style.right = "-200px";
     }
 
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbydMKbsRFT62X1LfW_lur1XmRsMrd3YIKiHR1Nl2EEsZPzwYKXnBoBawwLvpIY6Tuz-/exec'
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwdca1pHtGl11ivJBnHj7jBD3WQZ0eemcqh2NPa6sWgENH2_llG1uNt0T09Vb7wZYkn/exec'
     const form = document.forms['submit-to-google-sheet']
     const msg= document.getElementById("msg")
   
